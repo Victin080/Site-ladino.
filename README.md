@@ -1,0 +1,2 @@
+# Site-ladino.
+Site ladino
